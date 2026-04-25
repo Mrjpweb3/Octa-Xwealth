@@ -4,7 +4,7 @@ Institutional-grade Web3 wealth platform for portfolio tracking, analytics, and 
 
 ---
 
-## 🚀 Overview
+## Overview
 
 Octa Xwealth is a next-generation crypto wealth dashboard designed to give users full visibility and control over their digital assets across multiple blockchains.
 
@@ -12,18 +12,18 @@ Built for both retail and institutional users, the platform combines real-time b
 
 ---
 
-## ✨ Features
+## Features
 
-- 🔐 Wallet Connect (MetaMask / WalletConnect)
-- 📊 Real-time Portfolio Tracking
-- 🌐 Multi-chain Support (Ethereum, Arbitrum, Base)
-- 📈 Analytics Dashboard (PnL, APY, Risk)
-- 🧠 AI-ready Infrastructure (future upgrade)
-- ⚙️ Admin Control Panel (user & system management)
+-  Wallet Connect (MetaMask / WalletConnect)
+- Real-time Portfolio Tracking
+-  Multi-chain Support (Ethereum, Arbitrum, Base)
+-  Analytics Dashboard (PnL, APY, Risk)
+-  AI-ready Infrastructure (future upgrade)
+-  Admin Control Panel (user & system management)
 
 ---
 
-## 🧱 Tech Stack
+## Tech Stack
 
 **Frontend**
 - Next.js 14
@@ -41,14 +41,14 @@ Built for both retail and institutional users, the platform combines real-time b
 
 ---
 
-## 🔑 Authentication
+## Authentication
 
 - Sign-In with Ethereum (SIWE)
 - Secure session handling (JWT)
 
 ---
 
-## 📊 Dashboard Modules
+## Dashboard Modules
 
 - Portfolio Overview
 - Asset Allocation
@@ -58,7 +58,7 @@ Built for both retail and institutional users, the platform combines real-time b
 
 ---
 
-## 🛠️ Getting Started
+## Getting Started
 
 ### 1. Clone the repo
 ```bash
