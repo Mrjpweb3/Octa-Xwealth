@@ -1,0 +1,30 @@
+import WalletButton from "../../components/WalletButton";
+
+export default function Dashboard() {
+  return (
+    <div>
+      <h1>Dashboard</h1>
+
+      <WalletButton />
+
+      <div style={{
+        display: "grid",
+        gridTemplateColumns: "repeat(3, 1fr)",
+        gap: 20,
+        marginTop: 20
+      }}>
+        <div style={{ background: "#111A33", padding: 20 }}>
+          Portfolio Value: $120,000
+        </div>
+
+        <div style={{ background: "#111A33", padding: 20 }}>
+          APY: 14%
+        </div>
+
+        <div style={{ background: "#111A33", padding: 20 }}>
+          Risk: Moderate
+        </div>
+      </div>
+    </div>
+  );
+}
