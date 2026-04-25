@@ -2,15 +2,11 @@
 
 Institutional-grade Web3 wealth platform for portfolio tracking, analytics, and multi-chain asset management.
 
----
-
 ## Overview
 
 Octa Xwealth is a next-generation crypto wealth dashboard designed to give users full visibility and control over their digital assets across multiple blockchains.
 
 Built for both retail and institutional users, the platform combines real-time blockchain data, wallet connectivity, and advanced analytics into one seamless interface.
-
----
 
 ## Features
 
@@ -20,8 +16,6 @@ Built for both retail and institutional users, the platform combines real-time b
 -  Analytics Dashboard (PnL, APY, Risk)
 -  AI-ready Infrastructure (future upgrade)
 -  Admin Control Panel (user & system management)
-
----
 
 ## Tech Stack
 
@@ -39,14 +33,10 @@ Built for both retail and institutional users, the platform combines real-time b
 - Ethers.js
 - Alchemy API
 
----
-
 ## Authentication
 
 - Sign-In with Ethereum (SIWE)
 - Secure session handling (JWT)
-
----
 
 ## Dashboard Modules
 
@@ -56,11 +46,8 @@ Built for both retail and institutional users, the platform combines real-time b
 - Performance Metrics
 - Risk Analysis
 
----
-
 ## Getting Started
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/your-username/octa-xwealth.git
-cd octa-xwealth
+https://github.com/Mrjpweb3/Octa-Xwealth.git
